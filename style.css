@@ -34,9 +34,15 @@ body{
     background-color: var(--primary--cream);
     padding: 0.25rem;
 }
+.cols1:hover{
+    background-color: #ffffca;
+}
 .cols2{
     background-color: var(--primary-green);
     padding: 0.25rem;
+}
+.cols2:hover{
+    background-color:#729e46;
 }
 img{
     width: 100%;
